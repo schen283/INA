@@ -675,3 +675,23 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.07-03.29.03:801][422]SourceControl: fatal: D:/UE4 4.25 Install/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset: 'D:/UE4 4.25 Install/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset' is outside repository at 'D:/IC_Github/INA_UE4'
 [2021.02.07-03.29.03:801][422]SourceControl: fatal: D:/UE4 4.25 Install/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/AbberatedBlur-Texture.uasset: 'D:/UE4 4.25 Install/UE_4.25/Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/AbberatedBlur-Texture.uasset' is outside repository at 'D:/IC_Github/INA_UE4'
 [2021.02.07-03.29.03:801][422]SourceControl: fatal: D:/UE4 4.25 Install/UE_4.25/Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/AccelerationForce.uasset: 'D:/UE4 4.25 Install/UE_4.25/Engine/Plugins/FX/Niagara/Content/Modules/Update/Forces/AccelerationForce.uasset' is outside repository at 'D:/IC_Github/INA_UE4'
+[2021.02.07-03.30.15:770][723]LogMaterial: Display: Missing cached shader map for material Material0_2, compiling. 
+[2021.02.07-03.30.15:867][723]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2021.02.07-03.30.15:867][723]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.02.07-03.30.15:867][723]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.02.07-03.30.15:867][723]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.02.07-03.30.15:867][723]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.02.07-03.30.15:867][723]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.02.07-03.30.15:867][723]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.02.07-03.30.15:867][723]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.02.07-03.30.15:931][723]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.07-03.30.18:424][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IC_Import/Material0_2" FILE="../../../../../IC_Github/INA_UE4/TakeMeToYourWindow/Content/IC_Import/Material0_2.uasset" SILENT=true
+[2021.02.07-03.30.18:436][723]LogSavePackage: Moving '../../../../../IC_Github/INA_UE4/TakeMeToYourWindow/Saved/Material0_250E0BDAB47919CDF2C16938A66CF99BC.tmp' to '../../../../../IC_Github/INA_UE4/TakeMeToYourWindow/Content/IC_Import/Material0_2.uasset'
+[2021.02.07-03.30.19:014][723]AssetCheck: New page: Asset Save: Material0_2
+[2021.02.07-03.30.19:014][723]LogContentValidation: Display: Validating Material /Game/IC_Import/Material0_2.Material0_2
+[2021.02.07-03.30.31:338][275]LogSlate: Window 'Submit Files' being destroyed
+[2021.02.07-03.30.31:881][275]LogSourceControl: commit successful: [main 6594e04] test mt
+[2021.02.07-03.30.31:936][275]SourceControl: [main 6594e04] test mt
+[2021.02.07-03.30.31:936][275]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.02.07-03.30.31:936][275]SourceControl:  create mode 100644 TakeMeToYourWindow/Content/IC_Import/Material0_2.uasset
+[2021.02.07-03.30.31:943][275]SourceControl: Commited [main 6594e04] test mt.
